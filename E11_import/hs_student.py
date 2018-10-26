@@ -1,4 +1,4 @@
-from student import Student
+from E11_import.student import Student
 
 
 #inheritance
